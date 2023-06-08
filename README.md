@@ -1,6 +1,6 @@
 # Unit 1: Git, HTML/CSS, Hello World
 
-**Please watch all the videos for Week 1 on [the Tier 1 site](http://fullstack.primeacademy.io) before starting the assignment.** 
+**Please watch all the videos for Week 1 on [the Tier 1 site](http://fullstack.primeacademy.io) before starting the assignment.**
 
 These videos contain important information that will help you complete the assignment. Feel free to refer back to the videos whenever you need them!
 
@@ -79,7 +79,7 @@ If you make more changes in VSCode, save your work, then Refresh the browser to 
 
 ## 1.1) Make a Commit
 
-*When you're done with your HTML, make a "`commit`" with `git`.* 
+*When you're done with your HTML, make a "`commit`" with `git`.*
 
 > Definitly refer to the Git Practical video on this! You'll be making commits *all the time* so eventually you'll get this memorized. For now, take it one step at a time!
 
@@ -102,7 +102,7 @@ Now that we have content in our HTML file, let's make it look nice with some sty
 
 *When you're done, make another "`commit`" with `git`.*
 
-Here is an example of what your assignment could look like: 
+Here is an example of what your assignment could look like:
 
 ![](images/mockup.png)
 
@@ -115,15 +115,15 @@ The videos this week introduced you to working with the command line through Ter
 In the `checkpoints` folder, you will find a `terminal.txt` file. This is just a plain old file of characters. No code, just text.
 
 1. Open the `terminal.txt` file in VSCode. VSCode can open many kinds of files!
-2. In the `terminal.txt`, answer all of the questions about the Terminal. All you need to do is type your answer below each question! 
+2. In the `terminal.txt`, answer all of the questions about the Terminal. All you need to do is type your answer below each question!
 
-> If you're unsure, feel free to do some research, or write that you're not sure. All we're asking for is you try your best! 
+> If you're unsure, feel free to do some research, or write that you're not sure. All we're asking for is you try your best!
 
 *When you're done, make another "`commit`" with `git`.*
 
 ---
 
-## 4) Complete JavaScript "Hello World!" 
+## 4) Complete JavaScript "Hello World!"
 
 Our assignment also contains a `helloWorld.js` file. A "hello world" is a common first step in learning to code, and the first program many programmers write.
 
@@ -145,7 +145,7 @@ You can find detailed instructions on how to do this in this week's video conten
 
 ## 6) Submit Your Assignment in the Prime Portal
 
-You will need to "submit" a link to your GitHub repo containing your work for this assignment. Prime will then use this link to find and check out your assignment! 
+You will need to "submit" a link to your GitHub repo containing your work for this assignment. Prime will then use this link to find and check out your assignment!
 
 We won't know you're done until you [Submit it in the Portal](https://portal.primeacademy.io/).
 
@@ -156,4 +156,3 @@ You can find detailed instructions on how to do this in this week's video conten
 ## 7) Answer the Slack Discussion Question
 
 Make sure that you answer this week's Slack discussion question (found each week in the left sidebar of the Tier 1 site) in your cohort's Slack channel!
-
